@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# 个人信息
 
-You can use the [editor on GitHub](https://github.com/Jay1213811/Jay1213811.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- 江西师范大学计算机信息工程学院研二在读
+- 研究生导师：黄箐导师、王昌晶导师
+- 研究方向: 区块链Solidity合约开发/智能合约漏洞分析/机器学习
+- 技术栈:**C、Python、Go、Solidity**
+- *📧邮箱:** **huiwenjiang@jxnu.edu.cn**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 已发表论文
 
-### Markdown
+- 以**第一作者**（除导师外）发表论文《A Review of Blockchain Layered Architecture and Technology Application Research》已录用**Wuhan University Journal of Nature Science** （2021年第26卷第5期发表）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  
 
-```markdown
-Syntax highlighted code block
+## 创新创业比赛成果
 
-# Header 1
-## Header 2
-### Header 3
+1. **2021年3月获得省级奖学金**
+2. **2021年获得FISCO BCOS开源社区 MVP称号**
+3. **参与编著电子工业出版《BCOS实战》待出版**
+4. **2020-2021区块链服务(BSN)第三届开发者大赛高校组创意奖**
+5. **2021年7月作为江西师范大学研究生创新基金项目省级课题主要负责人之一**
+6. **2020-2021高校微信小程序华中赛区三等奖**
+7. **2021年第十四届“认证杯”数学中国数学建模网络挑战赛并获得省三等奖**
+8. **2021年江西省研究生数学建模竞赛三等奖**
+9. **2021年未来杯最佳代码奖**
+10. **2020年第九届"认证杯"数学中国数学建模国际赛（小美赛）并获得H奖**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jay1213811/Jay1213811.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
